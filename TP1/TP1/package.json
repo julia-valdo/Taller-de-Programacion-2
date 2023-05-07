@@ -1,0 +1,13 @@
+{
+  "name": "tp1",
+  "version": "0.0.1",
+  "description": "TP1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js",
+    "watch": "nodemon index.js"
+  },
+  "author": "Julia Valdovinos",
+  "license": "MIT"
+}
